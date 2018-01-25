@@ -70,11 +70,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "support@bitcoinabc.org"
-  facebook: bitcoinabc
-  github: bitcoinABC
-  twitter: bitcoinabc
+  rss: false
+  email: "info@bitcoinabc.org"
+  facebook: bitcoinabcorg
+  github: bitcoin-ABC
+  twitter: bitcoin_abc
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali

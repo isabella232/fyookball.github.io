@@ -4,8 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://fyookball.github.io"
-#baseurl: "http://fyookball.github.io"
+url: "https://bitcoinabc.org" 
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -23,7 +22,7 @@ description: Bitcoin ABC - software for Bitcoin Cash nodes
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "https://fyookball.github.io/blog"
+  Blog: "https://bitcoinabc.org/blog"
   Download:
     - Binaries: "https://download.bitcoinabc.org/"
     - Source Code: "https://github.com/Bitcoin-ABC/bitcoin-abc"

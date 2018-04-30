@@ -22,7 +22,3 @@ You can find more details here:
 
 https://www.bitcoinabc.org/2018-04-01-upgrade/ 
  
-If you're running a node, we would like to know: is there anything we can do to assist you in upgrading?  
-
-Email us, or you can also join our telegram group here: https://t.me/joinchat/HCYr50mxRWjA2uLqii-psw
- 
